@@ -1,0 +1,5 @@
+E:\研究生杂事\李阳帆\九宫格\九宫格\bin\Debug\九宫格.exe.config
+E:\研究生杂事\李阳帆\九宫格\九宫格\bin\Debug\九宫格.exe
+E:\研究生杂事\李阳帆\九宫格\九宫格\bin\Debug\九宫格.pdb
+E:\研究生杂事\李阳帆\九宫格\九宫格\obj\Debug\九宫格.exe
+E:\研究生杂事\李阳帆\九宫格\九宫格\obj\Debug\九宫格.pdb
